@@ -20,4 +20,6 @@ pip install -r requirements.txt
 
 After the installation step, you can reproduce our result when go to the "Data-Centric" folder and run the notebooks called "Top_40 Kaggle" on your terminal.
 
+Note that you need to modify your file path to the code work well.
+
 You also can see other notebooks with the output already shown below each code.
