@@ -6,7 +6,7 @@ This is a project about the application of data science to sales-forecast proble
 
 The data I have collected for my project comes from a competition organized by Walmart in 2014. Now it has been published in [Kaggle](https://www.kaggle.com/competitions/walmart-recruiting-store-sales-forecasting)
 
-You can see more details our workflow (such as the method we use to solve problem, the obstacle that we have met...) in this [report's link](https://drive.google.com/file/d/1tdxA1BSouKAgihYCwRvNU0d3aE7vmjAq/view?usp=drive_link)
+You can see more details our workflow (such as the method we use to solve problem, the obstacle that we have met...) in our pdf file names "Dap301m-Report"
 
 ## Installation
 
